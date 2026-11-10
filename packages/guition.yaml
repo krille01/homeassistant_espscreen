@@ -19,8 +19,8 @@ packages:
 external_components:
   - source:
       type: git
-      url: https://github.com/MaxGramser/homeassistant_espscreen.git
-      ref: ${GITHUB_REF}
+      url: https://github.com/krille01/homeassistant_espscreen.git
+      ref: norsk
       path: components
     refresh: 0s
     components: [smart_display]
